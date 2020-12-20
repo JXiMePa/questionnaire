@@ -53,7 +53,7 @@ class QuestionList extends StatelessWidget {
           Visibility(
               visible: showError,
               child: Text(
-                "Please make your choice",
+                "Пожалуйста, сделайте свой выбор",
                 style: TextStyle(color: Colors.red, fontSize: 16.0),
               ))
         ],
